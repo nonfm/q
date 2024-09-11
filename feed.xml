@@ -15,9 +15,9 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:subtitle>一个不局限风格的 J-ROCK 电台</itunes:subtitle>
   <itunes:summary><![CDATA[<p>Non-Rock Radio 是一个不局限风格的 J-Rock 电台，由几名喜欢日本音乐的爱好者组成，Non 为 nonsense 的简写，目的是给大家分享自己喜欢的音乐。</p>
-<p>微博：https://weibo.com/nonrockradio<br />播客传送门：https://mo.run/nonrock</p>]]></itunes:summary>
+<p>微博：https://weibo.com/nonrockradio <br />播客传送门：https://mo.run/nonrock</p>]]></itunes:summary>
   <description><![CDATA[<p>Non-Rock Radio 是一个不局限风格的 J-Rock 电台，由几名喜欢日本音乐的爱好者组成，Non 为 nonsense 的简写，目的是给大家分享自己喜欢的音乐。</p>
-<p>微博：https://weibo.com/nonrockradio<br />播客传送门：https://mo.run/nonrock</p>]]></description>
+<p>微博：https://weibo.com/nonrockradio <br />播客传送门：https://mo.run/nonrock</p>]]></description>
   <itunes:keywords>音乐, 日本摇滚, 邦摇, 日摇, 日音, 流行乐, 摇滚, 朋克, 金属, 后摇, j-rock, j-pop, rock, punk</itunes:keywords>
   <itunes:owner>
     <itunes:name>nonrockradio</itunes:name>
@@ -121,7 +121,7 @@ RSS 订阅：https://nrr.pages.dev/feed<br>
 48:27 ASIAN KUNG-FU GENERATION - 迷子犬と雨のビート</p>]]></content:encoded>
     <link>https://nrr.pages.dev/20221101/vol.3</link>
     <itunes:author>nonrockradio</itunes:author>
-    <enclosure url="https://cdn.lizhi.fm/audio/2022/11/05/2973046538087696390_ud.mp3" length="133676160" type="audio/mpeg" />
+    <enclosure url="https://chrt.fm/track/BB69F8/cdn.lizhi.fm/audio/2022/11/05/2973046538087696390_ud.mp3" length="133676160" type="audio/mpeg" />
     <guid isPermaLink="false">63612feaf4fef80011976b73</guid>
     <pubDate>Tue, 01 Nov 2022 15:01:50 +0800</pubDate>
     <itunes:duration>55:41</itunes:duration>
@@ -212,7 +212,7 @@ RSS 订阅：https://nrr.pages.dev/feed<br>
 50:03 NICO Touches the Walls - マトリョーシカ (TV Version)</p>]]></content:encoded>
     <link>https://nrr.pages.dev/20220923/vol.2</link>
     <itunes:author>nonrockradio</itunes:author>
-    <enclosure url="https://cdn.lizhi.fm/audio/2022/09/23/2965045467135083526_ud.mp3" length="123762937" type="audio/mpeg" />
+    <enclosure url="https://chrt.fm/track/BB69F8/cdn.lizhi.fm/audio/2022/09/23/2965045467135083526_ud.mp3" length="123762937" type="audio/mpeg" />
     <guid isPermaLink="false">632db64dea0edf001220b03f</guid>
     <pubDate>Fri, 23 Sep 2022 14:00:00 +0800</pubDate>
     <itunes:duration>51:34</itunes:duration>
@@ -315,7 +315,7 @@ RSS 订阅：https://nrr.pages.dev/feed<br>
 50:01 放課後ティータイム - NO, Thank You! (TV size Ver.)</p>]]></content:encoded>
     <link>https://nrr.pages.dev/20220618/vol.1</link>
     <itunes:author>nonrockradio</itunes:author>
-    <enclosure url="https://cdn.lizhi.fm/audio/2022/07/25/2953882712147506694_ud.mp3" length="123790080" type="audio/mpeg" />
+    <enclosure url="https://chrt.fm/track/BB69F8/cdn.lizhi.fm/audio/2022/07/25/2953882712147506694_ud.mp3" length="123790080" type="audio/mpeg" />
     <guid isPermaLink="false">62b88cf9d8176e001321a193</guid>
     <pubDate>Sat, 18 Jun 2022 04:21:00 +0800</pubDate>
     <itunes:duration>51:34</itunes:duration>
