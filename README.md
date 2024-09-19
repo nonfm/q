@@ -9,4 +9,4 @@ Non 为 nonsense 的简写，
 微博：[Non-RockRadio](https://weibo.com/nonrockradio)   
 微信公众号：[NonRockRadio](https://mp.weixin.qq.com/s/fgargvqyMgx6aKz_JEV6cg)  
 哔哩哔哩：[NonRockRadio](https://space.bilibili.com/3546559029447295)  
-播客：[mo.run/nonrock](https://mo.run/nonrock) 
+播客传送门：[Link in bio](https://nonfm.github.io/bio)
