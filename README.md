@@ -7,4 +7,4 @@ Non 为 nonsense 的简写，目的是给大家分享自己喜欢的音乐。
 微博：[Non-RockRadio](https://weibo.com/nonrockradio)   
 微信公众号：[NonRockRadio](https://dub.sh/non-wechat)  
 哔哩哔哩：[NonRockRadio](https://space.bilibili.com/3546559029447295)  
-播客传送门：[Link in Bio](https://nrr.zeabur.app)
+我们的其他据点：[Link in Bio](https://nrr.zeabur.app)
