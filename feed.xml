@@ -5,7 +5,7 @@
   <atom:link href="https://nrr.pages.dev/feed" rel="self" type="application/rss+xml" />
   <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
   <title>Non-Rock Radio</title>
-  <link>https://weibo.com/nonrockradio</link>
+  <link>https://nrr.zeabur.app</link>
   <language>zh</language>
   <copyright>Non-Rock Radio</copyright>
   <podcast:locked>yes</podcast:locked>
@@ -26,7 +26,7 @@
   <image>
      <url>https://i1.wp.com/raw.githubusercontent.com/nonfm/nonfm.github.io/main/assets/img/non.jpg</url>
      <title>Non-Rock Radio</title>
-     <link>https://weibo.com/nonrockradio</link>
+     <link>https://nrr.zeabur.app</link>
   </image>
   <itunes:image href="https://i1.wp.com/raw.githubusercontent.com/nonfm/nonfm.github.io/main/assets/img/non.jpg" />
   <itunes:category text="Music">
