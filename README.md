@@ -5,6 +5,6 @@ Non-Rock Radio 是一个不局限风格的J-ROCK电台，由几名喜欢日本�
 Non 为 nonsense 的简写，目的是给大家分享自己喜欢的音乐。  
   
 微博：[Non-RockRadio](https://weibo.com/nonrockradio)   
-微信公众号：[NonRockRadio](https://dub.sh/non-wechat)  
+微信公众号：[NonRockRadio](https://mp.weixin.qq.com/s/cxdtNKEjgg3wufiUKjnrZA)  
 哔哩哔哩：[NonRockRadio](https://space.bilibili.com/3546559029447295)  
-我们的其他据点：[Link in Bio](https://nrr.zeabur.app)
+如何找到我们：[Link in Bio](https://nrr.zeabur.app)
